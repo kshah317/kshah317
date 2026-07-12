@@ -16,10 +16,6 @@ This account is organized by domain so you can jump straight to what's relevant,
 
 <!-- 2-4 sentences: your path into CS, what draws you to healthcare/policy applications, any relevant prior degree/work. Replace this placeholder. -->
 
-## Currently
-
-- Finishing MAS-CS at UPenn (Dec 2026)
-- Open to: <!-- research collaborations / internships / roles — fill in -->
 
 ## Contact
 
