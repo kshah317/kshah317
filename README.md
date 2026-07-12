@@ -1,6 +1,6 @@
 # Hi, I'm Kasim 👋
 
-MAS-CS student at the University of Pennsylvania (MCIT/MAS-CS, expected Dec 2026), focused on the intersection of computation and applied domains — healthcare, policy, and economics.
+CS student at Penn Engineering (University of Pennsylvania) , focused on the intersection of computation and applied domains — healthcare, policy, and economics.
 
 ## What's here
 
@@ -27,5 +27,3 @@ This account is organized by domain so you can jump straight to what's relevant,
 - LinkedIn: <!-- add link -->
 
 ---
-
-*Note: this repo's name must exactly match your GitHub username — since you're `sknshah`, this repo must be named `sknshah/sknshah` — that's the only way GitHub renders it as your profile page.*
