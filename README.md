@@ -1,6 +1,6 @@
 # Hi, I'm Kasim 👋
 
-CS student at Penn Engineering (University of Pennsylvania) , focused on the intersection of computation and applied domains — healthcare, policy, and economics.
+CS student at Penn Engineering, focused on the intersection of computation and applied domains — healthcare, policy, and economics.
 
 ## What's here
 
