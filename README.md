@@ -11,7 +11,7 @@ This account is organized by domain so you can jump straight to what's relevant,
 | [healthcare-ai](https://github.com/sknshah/healthcare-ai) | Imaging informatics, clinical NLP, applied healthcare ML | `healthcare-ai` `clinical-nlp` `medical-imaging` |
 | [applied-ai](https://github.com/sknshah/applied-ai) | Applied AI/ML projects framed around business problems | `applied-ai` `llm` `genai` `rag` |
 | [computational-economics](https://github.com/sknshah/computational-economics) | Data/policy analysis, computational economics | `computational-economics` `policy-analysis` `data-analysis` |
-| [applied-cs-projects](https://github.com/sknshah/applied-cs-projects) | Original systems/algorithms projects (games, data structures, parsers) | `java` `algorithms` `software-design` |
+| [cs-projects](https://github.com/sknshah/applied-cs-projects) | Original systems/algorithms projects (games, data structures, parsers) | `java` `algorithms` `software-design` |
 
 ## Background
 
