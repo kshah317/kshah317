@@ -21,7 +21,8 @@ This account is organized by domain so you can jump straight to what's relevant,
 ## Contact
 
 - Email: sknshah1@gmail.com
-- LinkedIn: <!-- add link -->
+- LinkedIn: www.linkedin.com/in/kasimshah
+
  
   ---
   
