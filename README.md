@@ -1,4 +1,4 @@
-# Hi, I'm Kasim 👋
+# Hi, I'm Kasim. 
 
 CS student at Penn Engineering, focused on the intersection of computation and applied domains of healthcare, policy, and economics.
 
