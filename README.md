@@ -15,7 +15,7 @@ This account is organized by domain so you can jump straight to what's relevant,
 
 ## Background
 
-<!-- 2-4 sentences: your path into CS, what draws you to healthcare/policy applications, any relevant prior degree/work. Replace this placeholder. -->
+My path into CS is not the usual one. I spent years in economics and public policy, including a Master's in Political Economy at Oxford and an MiM at LSE, then several years as a Project Manager at Pakistan's national ID authority running large-scale e-governance programs, from ML-driven tax modeling on 20M+ households to a real-time refugee registration dashboard built for UNHCR. That work kept coming down to the same thing: good policy and healthcare outcomes depend on the data infrastructure and models behind them, which is what pulled me toward CS. I'm now doing an MS in Computer Science/AI at Penn part-time while consulting on enterprise AI, building the technical depth to match the domain experience.
 
 ## Contact
 
