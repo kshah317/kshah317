@@ -15,7 +15,7 @@ This account is organized by domain so you can jump straight to what's relevant,
 
 ## Background
 
-My path into CS is not the usual one. I spent years in economics and public policy, including a Master's in Political Economy at Oxford and an MiM at LSE, then several years as a Project Manager at Pakistan's national ID authority running large-scale e-governance programs, from ML-driven tax modeling on 20M+ households to a real-time refugee registration dashboard built for UNHCR. That work kept coming down to the same thing: good policy and healthcare outcomes depend on the data infrastructure and models behind them, which is what pulled me toward CS. I'm now doing an MS in Computer Science/AI at Penn part-time while consulting on enterprise AI, building the technical depth to match the domain experience.
+My path into CS & AI is an unusual one. I spent years in economics and public policy, including a Master's in Political Economy in South Asia at Oxford and an MiM at LSE, followed by some years as a Project Manager at Pakistan's national ID authority 'NADRA' running large-scale e-governance programs, including an ML-driven tax net broadening exercise on 20M+ households and a refugee registration project for UNHCR. My work has always indicated that good policy and public benefit outcomes depend on the data infrastructure and models behind them, which is what pulled me towards CS. I'm now doing an MS in Computer Science/AI at Penn while consulting on enterprise AI, AI Governance, Safety and Ethics, in an attempt to build the technical depth to match my domain expertise.
 
 ## Contact
 
