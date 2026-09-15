@@ -4,9 +4,9 @@ CS student at Penn Engineering, focused on the intersection of computation and a
 
 ## What's here
 
-This account is organized by domain so you can jump straight to what's relevant, rather than digging through one catch-all repo. A few things I keep coming back to, and why:
+This account is organized by domain so you can jump straight to what's relevant. A few things I keep coming back to, and why:
 
-Healthcare pulls me in because it's one of the few fields where a slightly better model can mean someone gets diagnosed sooner or treated more safely, so getting the data and the judgment calls right actually matters. Applied AI is where I test whether an idea survives contact with a real business problem instead of just a benchmark, framed the way an actual consulting engagement would be: a clear question, a cost or time tradeoff, and working code. Computational economics goes back to my years in public policy, where I got tired of policy claims that sounded right and started checking whether the numbers actually backed them up. And the smaller CS projects exist because I like understanding a system well enough to build it myself from scratch, games, parsers, data structures, rather than only ever using someone else's library.
+Healthcare pulls me in because it's one of the few fields where a slightly better model can mean someone gets diagnosed sooner or treated more safely. Applied AI is where I test whether an idea survives contact with a real business problem instead of just a benchmark, with a clear question and working code. Computational economics goes back to my academic grounding in economics and public policy, where I often came across policy claims that felt right but it was hard to check whether the numbers actually backed them up. And the smaller CS projects exist because I like understanding a system well enough to build it myself from scratch, games, parsers, data structures. 
 
 | Repo | Focus | Topics |
 |---|---|---|
@@ -19,7 +19,7 @@ Healthcare pulls me in because it's one of the few fields where a slightly bette
 
 ### Academic background
 
-I did a Master's in Political Economy of South Asia at Oxford, followed by an MiM at LSE. I'm now doing an MS in Computer Science and AI at Penn Engineering, which is basically where the "how do I actually build this" half of my brain caught up with the "why does this matter" half.
+I have completed a Master's in Political Economy (South Asia) at Oxford, and prior to that a MiM at London School of Economics, and a B.A. in Economics at the University of Manchester. I'm now doing an MS in Computer Science and AI at Penn Engineering, which is basically where the "how do I actually build this" half of my brain caught up with the "why does this matter" half.
 
 ### Professional background
 
@@ -29,12 +29,12 @@ Before any of the CS, I spent years in economics and public policy, most of it a
 
 Two areas I keep coming back to outside of what's in the repos above:
 
-- **Political economy of rent-seeking.** How rent-seeking behavior actually gets modeled: subsidies, elite capture, rentier capitalism, regulatory capture, and the incentive structures that let a small group extract value at everyone else's expense.
-- - **Enterprise AI governance.** The practical side of making AI systems accountable inside an organization: algorithmic auditing, incident response, red teaming, data governance, fairness and bias mitigation, and regulatory alignment.
+- **Political economy of rent-seeking.** How rent-seeking behavior actually gets modeled: subsidies, elite capture, rentier capitalism, regulatory capture, and the incentive structures that let a small group extract unproductive rents.
+- **Enterprise AI governance.** The practical side of making AI systems accountable inside an organization: algorithmic auditing, incident response, red teaming, data governance, fairness and bias mitigation, and regulatory alignment.
  
-  - ## Contact
+- ## Contact
  
   - - Email: sknshah1@gmail.com
-    - - LinkedIn: www.linkedin.com/in/kasimshah
-     
-      - ---
+  - - LinkedIn: www.linkedin.com/in/kasimshah
+
+    - ---
