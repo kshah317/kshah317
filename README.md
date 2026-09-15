@@ -34,7 +34,7 @@ Two areas I keep coming back to outside of what's in the repos above:
  
 - ## Contact
  
-  - - Email: sknshah1@gmail.com
-  - - LinkedIn: www.linkedin.com/in/kasimshah
+  - Email: sknshah1@gmail.com
+  - LinkedIn: www.linkedin.com/in/kasimshah
 
     - ---
