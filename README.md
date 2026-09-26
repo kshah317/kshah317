@@ -23,7 +23,7 @@ I have completed a Master's in Political Economy (South Asia) at Oxford, and pri
 
 ### Professional background
 
-Before any of the CS, I spent years in economics and public policy, most of it as a Project Manager at a public sector institution running large-scale e-governance programs and digital public infrastructure (DPI) initiatives. That included an ML-driven tax net broadening exercise across 20M+ households, a refugee registration project for UNHCR, and a migration management system built in partnership with UN-IOM and EU Frontex. That experience has always indicated that effective policy and public benefit outcomes depend largely on the underlying data infrastructure and models behind them, which is what pulled me towards CS. I currently also consult on Enterprise AI, AI Governance and Ethics alongside my degree.
+Before venturing into CS and AI, I spent years in economics and public policy, most of it as a Project Manager at a public sector institution running large-scale e-governance programs and digital public infrastructure (DPI) initiatives. That included an ML-driven tax net broadening exercise across 20M+ households, a refugee registration project for UNHCR, and a migration management system built in partnership with UN-IOM and EU Frontex. That experience has always indicated that effective policy and public benefit outcomes depend largely on the underlying data infrastructure and models behind them, which is what pulled me towards CS. I currently also consult on Enterprise AI, AI Governance and Ethics alongside my degree.
 
 ### Interests
 
