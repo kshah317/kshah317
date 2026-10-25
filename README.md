@@ -14,6 +14,7 @@ Healthcare pulls me in because it's one of the few fields where a slightly bette
 | [applied-ai](https://github.com/kshah317/applied-ai) | Applied AI/ML projects framed around business problems | `applied-ai` `llm` `genai` `rag` |
 | [computational-economics](https://github.com/kshah317/computational-economics) | Data/policy analysis, computational economics | `computational-economics` `policy-analysis` `data-analysis` |
 | [cs-projects](https://github.com/kshah317/cs-projects) | Original systems/algorithms projects (games, data structures, parsers) | `java` `algorithms` `software-design` |
+| [ai-safety](https://github.com/kshah317/ai-safety) | Hands-on technical AI safety: jailbreak testing and guardrail evaluation on small open models | `ai-safety` `red-teaming` `llm` |
 
 ## Background & Interests
 
